@@ -11,7 +11,6 @@ public class PrinterTask implements Serializable {
     public PrinterTask() {
     }
 
-
     public PrinterTask(int index, String fileName, String printer) {
         this.index = index;
         this.fileName = fileName;

@@ -80,4 +80,5 @@ public class Servant extends UnicastRemoteObject implements PrinterServer {
     public void setConfig(String parameter, String value) throws RemoteException {
         System.out.println("setConfig success");
     }
+
 }

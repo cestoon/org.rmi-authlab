@@ -62,7 +62,7 @@ public class SessionDAO {
             e.printStackTrace();
         }
 
-        return false;
+        return true;
     }
 
 //    public static void main(String[] args) {
